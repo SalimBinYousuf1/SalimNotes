@@ -1,0 +1,21 @@
+# Salim Build Progress
+
+- [x] 1.0 Project identity, metadata, and build configuration
+- [x] 2.0 Design system: glass surfaces, gradients, color tokens, and custom typography (Outfit, Cormorant Garamond, DotGothic16)
+- [x] 3.1 Onboarding flow (welcome, name entry, permissions guide, DataStore persistence)
+- [x] 3.2 Your Notes screen (frosted header, starburst logo, horizontal chips, 2-column staggered grid, 5 card types, bottom floating pill)
+- [x] 3.3 Collection detail screen (Thought of the day, perspective swipeable card stack, list toggle, "+ Create new" pill)
+- [x] 3.4 Good Morning screen (time-of-day greeting, user name, tilted featured note card, highlights photo card, real Daily Overview card)
+- [x] 4.0 Offline-first Data Layer (Room database with FTS4, entities for notes, checklists, attachments, collections, tags, reminders; DataStore)
+- [x] 5.1 Rich text / block editor (spans, headings, quotes, undo/redo, auto-saving)
+- [x] 5.2 Checklists (reorder, check/uncheck animations, progress indicators)
+- [x] 5.3 Voice notes (MediaRecorder / MediaPlayer, real waveform visualization, playback controls)
+- [x] 5.4 Images and Photo Collections (Photo picker, inline gallery, cover photos)
+- [x] 5.5 Files and PDFs (PdfRenderer thumbnail and viewer, document picker)
+- [x] 5.6 Tags, Important, Pin, Featured, Archive, and Trash
+- [x] 5.7 Reminders and Notifications (AlarmManager, notification actions)
+- [x] 5.8 Search (full-text search over title, body, checklist, tags, recent searches)
+- [x] 5.9 Backup, Restore, and Markdown Export
+- [x] 6.0 Settings sheet/screen (profile name, appearance, note options, security, storage)
+- [x] 7.0 Permissions, privacy, and system compliance (zero internet, lifecycle safety)
+- [x] 12.0 Final self-audit and quality checks

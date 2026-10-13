@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Salim</string>
+    <string name="title_your_notes">Your Notes</string>
+    <string name="greeting_good_morning">Good\nMorning</string>
+    <string name="greeting_good_afternoon">Good\nAfternoon</string>
+    <string name="greeting_good_evening">Good\nEvening</string>
+    <string name="daily_overview">Daily Overview</string>
+    <string name="create_new">Create new</string>
+    <string name="filter_all">All Notes</string>
+    <string name="filter_todo">To-Do</string>
+    <string name="filter_images">Images</string>
+    <string name="filter_important">Important</string>
+    <string name="filter_audio">Audio</string>
+    <string name="filter_files">Files</string>
+    <string name="filter_pdf">PDF</string>
+</resources>

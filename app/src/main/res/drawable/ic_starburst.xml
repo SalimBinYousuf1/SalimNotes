@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- 12-ray starburst, center (24, 24) -->
+    <!-- 0 deg (top) -->
+    <path
+        android:pathData="M24,9 L24,2"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+    <!-- 180 deg (bottom) -->
+    <path
+        android:pathData="M24,39 L24,46"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+    <!-- 90 deg (right) -->
+    <path
+        android:pathData="M39,24 L46,24"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+    <!-- 270 deg (left) -->
+    <path
+        android:pathData="M9,24 L2,24"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+    <!-- 30 deg -->
+    <path
+        android:pathData="M31.5,11.0 L35.0,4.9"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+    <!-- 60 deg -->
+    <path
+        android:pathData="M37.0,16.5 L43.1,13.0"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+    <!-- 120 deg -->
+    <path
+        android:pathData="M37.0,31.5 L43.1,35.0"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+    <!-- 150 deg -->
+    <path
+        android:pathData="M31.5,37.0 L35.0,43.1"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+    <!-- 210 deg -->
+    <path
+        android:pathData="M16.5,37.0 L13.0,43.1"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+    <!-- 240 deg -->
+    <path
+        android:pathData="M11.0,31.5 L4.9,35.0"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+    <!-- 300 deg -->
+    <path
+        android:pathData="M11.0,16.5 L4.9,13.0"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+    <!-- 330 deg -->
+    <path
+        android:pathData="M16.5,11.0 L13.0,4.9"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round" />
+</vector>
